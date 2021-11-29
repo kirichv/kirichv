@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kirichv
+- 👀 I’m interested in  game development
+- 🌱 I’m currently learning c # programming language for unit
+- 💞️ I’m looking to collaborate on creating games
